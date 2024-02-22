@@ -1,4 +1,4 @@
-package com.polarbookshop.configservice;
+package me.lackinger.configservice;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
